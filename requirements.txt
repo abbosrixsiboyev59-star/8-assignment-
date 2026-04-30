@@ -1,1 +1,3 @@
-pip free > requirements.txt
+pyTelegramBotAPI
+google-generativeai
+aiogram
